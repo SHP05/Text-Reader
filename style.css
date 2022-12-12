@@ -1,0 +1,31 @@
+.container{
+    margin-top: 10rem;
+    text-align: center;
+    align-content: center;
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    border-radius: 20px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+.card{
+    background-color: lightgreen;
+}
+body{
+background-color:gainsboro;
+}
+#btn{
+border: none;
+height: 50px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kreon:wght@700&family=Mochiy+Pop+One&display=swap');   
+#head{
+/* font-family: 'Kenia', cursive; */
+font-family: 'Kreon', serif;
+/* font-family: 'Mochiy Pop One', sans-serif; */
+}
